@@ -4,7 +4,7 @@
 	"containerDefinitions": [
 		{
 		"name": "my-app",
-		"image": "620669233735.dkr.ecr.ap-south-1.amazonaws.com/my-app:latest",
+		"image": "public.ecr.aws/q3y5h7a9/one:latest",
 		"portMappings": [
 			{
 			"containerPort": 8080,
